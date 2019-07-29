@@ -7,19 +7,19 @@ namespace server.Interfaces
 {
     public interface StudentRepository
     {
-        // get all the students
+        // GET all the students (GET)
         Task<IEnumerable<Student>> GetAllStudents();
 
-        // get a student
+        // GET a student (GET)
         Task<Student> GetStudent(string id);
 
-        // add new student
+        // add new student (POST)
         Task AddStudent(Student item);
 
-        // remove a single student
+        // remove a single student (DELETE)
         Task<bool> RemoveStudent(string id);
 
-        // update just a single student
+        // update just a single student (PUT)
         Task<bool> UpdateStudent(string id, string body);
     }
 }
