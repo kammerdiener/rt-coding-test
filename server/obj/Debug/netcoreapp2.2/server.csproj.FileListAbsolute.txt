@@ -1,0 +1,4 @@
+/Users/nkammerdiener/dev/realtheory/rt-coding-test/server/obj/Debug/netcoreapp2.2/server.csprojAssemblyReference.cache
+/Users/nkammerdiener/dev/realtheory/rt-coding-test/server/obj/Debug/netcoreapp2.2/server.csproj.CoreCompileInputs.cache
+/Users/nkammerdiener/dev/realtheory/rt-coding-test/server/obj/Debug/netcoreapp2.2/server.AssemblyInfoInputs.cache
+/Users/nkammerdiener/dev/realtheory/rt-coding-test/server/obj/Debug/netcoreapp2.2/server.AssemblyInfo.cs
